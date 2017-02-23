@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OSM POC de Jekyll
+lang: fr
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Ceci est un test de jekyll pour voir si des non techos peuvent s'en sortir à éditer des fichiers markdown
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wadouk.github.io/osm-poc/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
